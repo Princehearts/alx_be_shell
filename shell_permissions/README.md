@@ -4,4 +4,4 @@ Second shell permission projec
 
 This is an empty script file with hello
 
-This is a script to execut the user hello
+This is a script to execute the user hello
